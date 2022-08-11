@@ -15,6 +15,11 @@ namespace Proyecto
         public Form2()
         {
             InitializeComponent();
+
+
+
+
+            
         }
     }
 }
